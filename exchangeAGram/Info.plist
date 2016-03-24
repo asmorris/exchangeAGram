@@ -43,5 +43,28 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb931857400265723</string>
+			</array>
+		</dict>
+	</array>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>fbauth2</string>
+	</array>
+	<key>FacebookAppID</key>
+	<string>931857400265723</string>
+	<key>FacebookDisplayName</key>
+	<string>exchangeAPic</string>
+	<key>NSLocationUsageDescription</key>
+	<string>ExchangeAGram would like to use your location</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>ExchangeAGram would like to use your location</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Hide yo kids, hide yo wife</string>
 </dict>
 </plist>
